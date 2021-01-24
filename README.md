@@ -1,6 +1,6 @@
-# coral_reef
+# Coral Reef
 
-A decentralized app for women without borders
+A decentralized app for women without borders.
 
 ## Getting Started
 
